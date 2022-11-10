@@ -1,0 +1,33 @@
+h2{
+  
+  background-color: #bce4fa;
+  height: 50px;
+}
+h1{
+	text-align: center;
+  margin-bottom: auto;
+  font-weight:bold;
+}
+table{
+  margin: auto;
+	/*asignar un margen automatico*/
+	border-radius: 10px;
+     /*Establece el redondeo de las esquinas del elmento*/
+	border:#70BAEC 3px solid;
+	/*el color del borde, tamaño y estilo*/
+     /*Establece el borde*/
+	width: 60%;
+	/*anchura de la tabla*/
+}
+th,td{
+	text-align: center;
+	/*alineamos el texto al centro*/
+}
+*{
+	margin: 0;
+	/*le damos un margen a todo el documento de 0*/
+}
+.btnPDF{
+	float: right;
+	text-align: center;
+}

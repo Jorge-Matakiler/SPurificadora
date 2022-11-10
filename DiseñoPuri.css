@@ -1,0 +1,100 @@
+h2{
+  
+  background-color: #bce4fa;
+  height: 50px;
+}
+/*h1{
+text-align: center;
+/*el texto se centre*/
+/*font-weight: bold;
+/*estilo de letra negritas*/
+/*background-color: #77D4DD;
+/*color de fondo*/
+/*height: 100px;
+/*largo*/
+/*width: 100%;
+/*anchura*/
+/*}*/
+h1{
+    text-align: center;
+  margin-bottom: auto;
+  font-weight:bold;
+}
+table{
+  margin: auto;
+  /*asignar un margen automatico*/
+  border-radius: 10px;
+     /*Establece el redondeo de las esquinas del elmento*/
+  border:#B8AFD2 3px solid;
+  /*el color del borde, tamaño y estilo*/
+     /*Establece el borde*/
+  width: 80%;
+  /*anchura de la tabla*/
+}
+th,td{
+  text-align: center;
+  /*alineamos el texto al centro*/
+}
+*{
+  margin: 0;
+  /*le damos un margen a todo el documento de 0*/
+}
+.btnmod{
+  display: inline-block;
+  font-size: 15px;
+  padding: 8px 18px;
+  cursor: pointer;
+  text-align: center; 
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #198754;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+}
+.btndel{
+  display: inline-block; 
+  font-size: 15px;
+  padding: 8px 18px;
+  cursor: pointer;
+  text-align: center; 
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #dc3545;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+  
+}
+.btnA{
+  display: inline-block; 
+  font-size: 20px;
+  padding: 8px 18px;
+  cursor: pointer;
+  text-align: center; 
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #0a58ca;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+}
+.btnB{
+
+  width: 250px;
+  display: inline-block; 
+  font-size: 20px;
+  padding: 8px 18px;
+  cursor: pointer;
+  text-align: center; 
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #51585e;
+  border: none;
+  border-radius: 10px;
+  
+}

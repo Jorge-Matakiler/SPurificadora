@@ -1,0 +1,75 @@
+h1{
+font-style: cursive;
+text-align: center;
+font-weight: bold;
+height: 100px;
+width: 100%;
+}
+h3{
+  background-color: #bb2d3b;
+  height: 50px;
+}
+h2{
+  
+  background-color: #bce4fa;
+  height: 50px;
+}
+*{
+  margin: 0;   
+}
+table{
+  margin: auto;
+  border-radius: 10px;
+     /*Establece el redondeo de las esquinas del elmento*/
+  border:#B8AFD2 3px solid;
+     /*Establece el borde*/ 
+}
+
+table{
+  text-align: center; 
+  border: #bce4fa 5px solid;
+  border-radius: 3px;
+  margin: auto;
+  width: 60%;
+}
+th,td{
+  font-size: 23px;
+  border-radius: 10px;
+  height: 60px;
+  width: 250px;
+  text-align: center;
+  /*alineamos el texto al centro*/
+}
+select {    
+    background-color: transparent;
+    /*el color de fondo sea nulo*/
+}
+}
+.btnAct{
+  display: inline-block;
+  font-size: 15px;
+  padding: 8px 18px;
+  cursor: pointer;
+  text-align: center; 
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #198754;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+}
+input{
+  display: inline-block;
+  font-size: 15px;
+  padding: 8px 18px;
+  cursor: pointer;
+  text-align: center; 
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #198754;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 9px #999;
+}
